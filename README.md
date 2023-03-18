@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a Full Stack web app for a hospital
 - 🌱 I’m currently learning PHP and Symfony
 - 👯 I’m open to work and I am looking for new challenges
