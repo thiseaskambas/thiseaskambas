@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there, I'm Thésée 👋
 
 
 - 🔭 I’m currently working on a Full Stack web app for a hospital
