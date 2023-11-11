@@ -1,9 +1,8 @@
 ### Hi there, I'm Thésée 👋
 
 
-- 🔭 I’m currently working on a Full Stack web app for a hospital
-- 🌱 I’m currently learning PHP and Symfony
-- 👯 I’m open to work and I am looking for new challenges
+- 🔭 I’m currently working as a Full Stack web dev for Crédit Agricole
+- 🌱 Currently learning PHP and Symfony
 - 💬 Ask me about.. anything !
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tkambas/)
 - 📍 Based in France
